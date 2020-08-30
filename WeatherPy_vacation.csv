@@ -1,0 +1,689 @@
+City_ID,City,Country,Max Temp,Date,Lat,Lng,Hotel Name
+0,Busselton,AU,44.01,8/28/2020 22:58,-33.65,115.33,Observatory Guest House
+1,Svobodnyy,RU,54.88,8/28/2020 22:58,51.4,128.13,Alekseevskij Hotel
+2,Keti Bandar,PK,82.35,8/28/2020 22:58,24.14,67.45,Haji laloo memon house
+3,Bahia Blanca,AR,55.67,8/28/2020 22:54,-38.72,-62.27,Hotel Argos
+4,Muros,ES,60.01,8/28/2020 22:54,42.78,-9.06,Apartment Av. Castelao
+5,Avarua,CK,77.0,8/28/2020 22:53,-21.21,-159.78,Paradise Inn
+6,Ushuaia,AR,33.8,8/28/2020 22:58,-54.8,-68.3,Albatros Hotel
+7,Saldanha,ZA,46.4,8/28/2020 22:58,-33.01,17.94,Blue Bay Lodge
+8,Cabo San Lucas,MX,80.01,8/28/2020 22:57,22.89,-109.91,Hotel Tesoro Los Cabos
+9,Antalaha,MG,67.32,8/28/2020 22:58,-14.9,50.28,Hotel Vitasoa
+10,New Norfolk,AU,55.0,8/28/2020 22:58,-42.78,147.06,The Shingles Riverside Cottages
+11,Qaanaaq,GL,40.08,8/28/2020 22:58,77.48,-69.36,Qaanaaq Hotel
+12,Puerto Ayora,EC,66.16,8/28/2020 22:58,-0.74,-90.35,Finch Bay Galapagos Hotel
+13,Geraldton,AU,48.2,8/28/2020 22:58,-28.77,114.6,Broadwater Mariner Resort
+14,Ribeira Grande,PT,74.5,8/28/2020 22:58,38.52,-28.7,Quinta da Meia Eira
+15,Sitia,GR,75.99,8/28/2020 22:58,35.2,26.1,Sitia Bay
+16,Neuquen,AR,55.4,8/28/2020 22:58,-38.95,-68.06,Hotel del Comahue
+17,Fillan,NO,51.8,8/28/2020 22:58,63.61,8.97,Hjorten Hotell hitra
+18,Pringsewu,ID,72.43,8/28/2020 22:58,-5.36,104.97,Urban Style by Front One
+19,Vardo,NO,39.2,8/28/2020 22:57,70.37,31.11,Vardø Hotel AS
+20,Gorontalo,ID,78.28,8/28/2020 22:58,0.54,123.06,Maqna Hotel by Prasanthi
+21,Severnoye,RU,53.62,8/28/2020 22:58,56.35,78.36,Gostinitsa Severyanka
+22,Lebanon,US,75.0,8/28/2020 22:53,36.21,-86.29,Hampton Inn & Suites Lebanon
+23,Cape Town,ZA,52.0,8/28/2020 22:58,-33.93,18.42,Southern Sun Waterfront Cape Town
+24,Ilulissat,GL,46.4,8/28/2020 22:58,69.22,-51.1,Hotel Arctic
+25,Hermanus,ZA,50.0,8/28/2020 22:54,-34.42,19.23,Misty Waves Boutique Hotel
+26,Barrow,US,39.2,8/28/2020 22:55,71.29,-156.79,King Eider Inn
+27,Bethel,US,80.6,8/28/2020 22:55,41.37,-73.41,Courtyard by Marriott Danbury
+28,Kirakira,SB,82.51,8/28/2020 22:58,-10.45,161.92,SanBiz Lodge
+29,Jimma,ET,58.55,8/28/2020 22:58,7.67,36.83,Jimma Central Hotel
+30,Kaputa,ZM,70.27,8/28/2020 22:58,-8.47,29.66,Chelelwa Charlets
+31,Axim,GH,74.39,8/28/2020 22:58,4.87,-2.24,AXIM BEACH RESORT AND SPA
+32,Mataura,NZ,45.0,8/28/2020 22:58,-46.19,168.86,Ellie's Villa
+33,Salalah,OM,75.2,8/28/2020 22:58,17.02,54.09,HAMDAN PLAZA HOTEL
+34,Port Hardy,CA,60.8,8/28/2020 22:56,50.7,-127.42,Airport Inn
+35,Nador,MA,82.4,8/28/2020 22:58,35.17,-2.93,Hôtel La Giralda
+36,Dikson,RU,48.45,8/28/2020 22:56,73.51,80.55,
+37,Albany,US,75.0,8/28/2020 22:58,42.6,-73.97,
+38,East London,ZA,60.31,8/28/2020 22:58,-33.02,27.91,Tu Casa
+39,Gavle,SE,51.01,8/28/2020 22:58,60.67,17.14,Scandic CH
+40,Matai,TZ,60.8,8/28/2020 22:58,-8.3,31.52,Rashid agro vet
+41,Jamestown,US,75.0,8/28/2020 22:58,42.1,-79.24,Hampton Inn & Suites Jamestown
+42,Pangnirtung,CA,48.2,8/28/2020 22:58,66.15,-65.71,Kilabuk Lodge
+43,Soyo,AO,72.34,8/28/2020 22:58,-6.13,12.37,Hotel Mpampa
+44,Rikitea,PF,69.08,8/28/2020 22:58,-23.12,-134.97,Pension Maro'i
+45,Kahului,US,93.2,8/28/2020 22:58,20.89,-156.47,Maui Seaside Hotel
+46,Bengkulu,ID,75.29,8/28/2020 22:57,-3.8,102.27,Grage Hotel Bengkulu
+47,Mar Del Plata,AR,54.0,8/28/2020 22:57,-38.0,-57.56,Gran Hotel Mar del Plata habitaciones
+48,Nanortalik,GL,49.87,8/28/2020 22:58,60.14,-45.24,"NTS Rooms, Nanortalik"
+49,Ozernovskiy,RU,49.84,8/28/2020 22:58,51.5,156.52,
+50,Lebu,CL,45.41,8/28/2020 22:56,-37.62,-73.65,Hostal Las Lilas
+51,Hamilton,US,82.4,8/28/2020 22:58,39.18,-84.53,Six Acres Bed & Breakfast
+52,Saint-Hyacinthe,CA,71.01,8/28/2020 22:58,45.62,-72.95,Holiday Inn Express & Suites Saint - Hyacinthe
+53,Georgetown,MY,80.6,8/28/2020 22:57,5.41,100.34,Cititel Penang
+54,Pevek,RU,40.78,8/28/2020 22:58,69.7,170.31,Severnoye Zoloto
+55,Cidreira,BR,65.17,8/28/2020 22:55,-30.18,-50.21,Hotel Castelo
+56,Lorengau,PG,83.53,8/28/2020 22:58,-2.02,147.27,Lorengau Harbourside Hotel
+57,Ossora,RU,52.3,8/28/2020 22:58,59.24,163.07,
+58,Carutapera,BR,76.44,8/28/2020 22:58,-1.2,-46.02,Lidera
+59,Saskylakh,RU,57.22,8/28/2020 22:58,71.92,114.08,
+60,Tashtyp,RU,53.64,8/28/2020 22:58,52.79,89.9,
+61,Hobart,AU,55.0,8/28/2020 22:53,-42.88,147.33,St Ives Hobart Accommodation Tasmania
+62,Mahebourg,MU,71.6,8/28/2020 22:58,-20.41,57.7,Le Peninsula Bay Beach Resort & Spa
+63,Port Elizabeth,ZA,53.6,8/28/2020 22:58,-33.92,25.57,39 On Nile Guest House
+64,Warri,NG,75.15,8/28/2020 22:58,5.52,5.75,BON Hotel Delta
+65,Menongue,AO,62.73,8/28/2020 22:58,-14.66,17.69,Ritz Lauca
+66,Guasdualito,VE,78.62,8/28/2020 22:58,7.24,-70.73,Hotel Cuibas
+67,Thompson,CA,60.8,8/28/2020 22:58,55.74,-97.86,Burntwood Hotel
+68,Eslov,SE,57.99,8/28/2020 22:58,55.84,13.3,Stensson
+69,Suba,PH,83.66,8/28/2020 22:58,10.84,121.01,Casita Bed and Grill
+70,Victoria,HK,82.0,8/28/2020 22:58,22.29,114.16,Mini Hotel Central
+71,Evensk,RU,52.72,8/28/2020 22:58,61.95,159.23,
+72,Port Alfred,ZA,57.22,8/28/2020 22:54,-33.59,26.89,The Halyards Hotel
+73,Margate,GB,61.0,8/28/2020 22:58,51.38,1.39,Premier Inn Margate hotel
+74,Faanui,PF,76.17,8/28/2020 22:58,-16.48,-151.75,Bora-Bora Pearl Beach Resort & Spa
+75,The Pas,CA,68.0,8/28/2020 22:58,53.83,-101.25,Wescana Inn
+76,Kapaa,US,84.2,8/28/2020 22:54,22.08,-159.32,Sheraton Kauai Resort at Coconut Beach
+77,Kendari,ID,73.74,8/28/2020 22:58,-3.94,122.5,Hotel Wixel
+78,Mayumba,GA,74.32,8/28/2020 22:58,-3.43,10.66,LIKWALE LODGE
+79,Khatanga,RU,55.49,8/28/2020 22:58,71.97,102.5,"Gostinitsa ""Zapolyar'ye"""
+80,Broome,US,73.99,8/28/2020 22:58,42.25,-75.83,Chenango Valley State Park
+81,Kathmandu,NP,69.8,8/28/2020 22:58,27.72,85.32,Hotel Shanker Kathmandu
+82,Oga,IT,61.0,8/28/2020 22:58,46.46,10.35,QC Terme Bagni di Bormio Bagni Nuovi
+83,Mandalgovi,MN,51.89,8/28/2020 22:58,45.76,106.27,В.Ганбат
+84,Bredasdorp,ZA,48.2,8/28/2020 22:55,-34.53,20.04,Bredasdorp Country Manor
+85,Eirunepe,BR,85.44,8/28/2020 22:58,-6.66,-69.87,Pousada Novo Acre
+86,San-Pedro,CI,74.66,8/28/2020 22:58,4.75,-6.64,Hotel Maria
+87,Cerchezu,RO,69.8,8/28/2020 22:58,43.82,28.1,
+88,Ponta Do Sol,PT,75.2,8/28/2020 22:58,32.67,-17.1,Hotel do Campo
+89,Kangalassy,RU,42.8,8/28/2020 22:58,62.35,129.96,
+90,Berdigestyakh,RU,54.46,8/28/2020 22:58,62.1,126.7,
+91,Arraial Do Cabo,BR,71.6,8/28/2020 22:57,-22.97,-42.03,Pousada Porto Praia
+92,Garden City,US,73.4,8/28/2020 22:53,42.33,-83.33,Quality Inn & Suites Banquet Center
+93,Nuuk,GL,60.8,8/28/2020 22:58,64.18,-51.72,Vandrehuset
+94,Kaitangata,NZ,55.0,8/28/2020 22:57,-46.28,169.85,Kaitangata Motor Camp
+95,Vila Franca Do Campo,PT,75.2,8/28/2020 22:58,37.72,-25.43,Pestana Bahia Praia
+96,Hami,CN,65.53,8/28/2020 22:58,42.8,93.45,Laoyutang Resort
+97,La Victoria,VE,86.0,8/28/2020 22:58,10.22,-67.33,Hotel Hacienda El Recreo
+98,Aljezur,PT,61.0,8/28/2020 22:58,37.32,-8.8,Amazigh Hostel
+99,Yellowknife,CA,54.0,8/28/2020 22:57,62.46,-114.35,The Explorer Hotel
+100,Touros,BR,77.0,8/28/2020 22:58,-5.2,-35.46,INN NEW HORIZON
+101,Shirgaon,IN,78.96,8/28/2020 22:58,19.7,72.7,LAXMI GARDEN BEACH RESORT
+102,Morondava,MG,70.99,8/28/2020 22:58,-20.28,44.28,La Case Bambou
+103,Saurimo,AO,67.95,8/28/2020 22:58,-9.66,20.39,Hotel Kawissa Saurimo
+104,Vaini,TO,78.8,8/28/2020 22:57,-21.2,-175.2,Keleti Beach Resort
+105,Ipora,BR,75.33,8/28/2020 22:58,-16.44,-51.12,Oásis Motel
+106,Prince Rupert,CA,59.0,8/28/2020 22:58,54.32,-130.32,Crest Hotel
+107,Tuktoyaktuk,CA,51.8,8/28/2020 22:58,69.45,-133.04,End of The Road Ltd.
+108,Grindavik,IS,48.2,8/28/2020 22:58,63.84,-22.43,Northern Light Inn & Max's Restaurant
+109,Punta Arenas,CL,32.0,8/28/2020 22:54,-53.15,-70.92,Hotel Dreams Del Estrecho
+110,Beloha,MG,71.94,8/28/2020 22:58,-25.17,45.05,
+111,Codrington,AU,50.14,8/28/2020 22:58,-38.27,141.97,Codrington Gardens Bed And Breakfast
+112,Wilmington,US,89.6,8/28/2020 22:56,34.23,-77.94,"Hotel Ballast Wilmington, Tapestry Collection by Hilton"
+113,Aykhal,RU,48.2,8/28/2020 22:58,66.0,111.5,
+114,Pumiao,CN,77.0,8/28/2020 22:58,22.75,108.48,Mushang Boutique Hotel
+115,Havre-Saint-Pierre,CA,59.0,8/28/2020 22:58,50.23,-63.6,Auberge Niapiskau
+116,Dingle,PH,78.51,8/28/2020 22:55,11.0,122.67,Camp Pasica
+117,Constitucion,CL,50.18,8/28/2020 22:58,-35.33,-72.42,Hotel Boutique Las Azucenas
+118,Sao Filipe,CV,80.4,8/28/2020 22:56,14.9,-24.5,Tortuga B&B
+119,Jiaojiang,CN,82.0,8/28/2020 22:58,28.68,121.44,Fangyuan Hotel
+120,Ulladulla,AU,53.6,8/28/2020 22:58,-35.35,150.47,Sandpiper Motel
+121,Mpika,ZM,64.72,8/28/2020 22:58,-11.83,31.45,Melodies Lodge
+122,Babu,CN,77.16,8/28/2020 22:58,24.42,111.52,IU Hotel Hezhou Bus Terminal
+123,Sumbe,AO,69.08,8/28/2020 22:57,-11.21,13.84,Hotel Ritz Sumbe
+124,Narsaq,GL,60.8,8/28/2020 22:56,60.92,-46.05,Hotel Narsaq
+125,Atuona,PF,77.86,8/28/2020 22:58,-9.8,-139.03,Villa Enata
+126,Havoysund,NO,46.4,8/28/2020 22:58,71.0,24.66,Arctic View Glamping & Restaurant
+127,Nome,US,57.99,8/28/2020 22:58,64.5,-165.41,Dredge 7 Inn
+128,Bluff,NZ,45.0,8/28/2020 22:58,-46.6,168.33,Bluff Homestead - Guesthouse & Campervan Park
+129,Monster,NL,59.0,8/28/2020 22:58,52.03,4.17,Vakantiepark Kijkduin
+130,Cairns,AU,71.6,8/28/2020 22:58,-16.92,145.77,Mantra Trilogy Cairns
+131,Bonthe,SL,76.5,8/28/2020 22:58,7.53,-12.51,Bonthe Holiday Village
+132,Breclav,CZ,73.0,8/28/2020 22:58,48.76,16.88,Hotel Rose
+133,Talnakh,RU,48.2,8/28/2020 22:57,69.49,88.4,Talnakh Hotel
+134,Bakchar,RU,51.84,8/28/2020 22:58,57.02,82.07,
+135,Elat,IL,89.6,8/28/2020 22:58,29.56,34.95,Club Hotel Eilat
+136,Muisne,EC,78.8,8/28/2020 22:58,0.6,-80.03,Quinta Samay
+137,Upernavik,GL,40.35,8/28/2020 22:58,72.79,-56.15,Gina's Guesthouse - Upernavik
+138,Banda Aceh,ID,79.95,8/28/2020 22:58,5.56,95.32,OYO 884 Rumoh PMI Hotel
+139,Alyangula,AU,73.4,8/28/2020 22:58,-13.85,136.42,Groote Eylandt Lodge
+140,Kodiak,US,64.4,8/28/2020 22:58,57.79,-152.41,Best Western Kodiak Inn and Convention Center
+141,Listvyagi,RU,50.68,8/28/2020 22:58,53.68,86.95,"Lesnaya Skazka, Gostinichno-Bannyy Kompleks"
+142,Usoke,TZ,73.4,8/28/2020 22:58,-5.17,32.35,
+143,Bayir,TR,69.8,8/28/2020 22:58,37.27,28.22,Buban Otel
+144,Half Moon Bay,US,75.99,8/28/2020 22:56,37.46,-122.43,"The Ritz-Carlton, Half Moon Bay"
+145,Beringovskiy,RU,50.9,8/28/2020 22:58,63.05,179.32,Beringgorski
+146,Yeppoon,AU,66.2,8/28/2020 22:58,-23.13,150.73,Villa Mar Colina
+147,Butaritari,KI,82.29,8/28/2020 22:58,3.07,172.79,Isles Sunset Lodge
+148,Bonavista,CA,57.99,8/28/2020 22:58,48.65,-53.11,Abbott's Bed & Breakfast
+149,Ozu,JP,82.4,8/28/2020 22:58,33.5,132.55,HOTEL FOREST
+150,Along,IN,71.37,8/28/2020 22:58,28.17,94.77,Hotel West
+151,Kruisfontein,ZA,48.99,8/28/2020 22:58,-34.0,24.73,Oyster Bay House Rental
+152,Bairiki,KI,86.0,8/28/2020 22:58,1.33,172.98,Tarawa Boutique Hotel
+153,Forbes,AU,48.0,8/28/2020 22:58,-33.38,148.02,Lake Forbes Motel
+154,Corn Island,NI,84.31,8/28/2020 22:58,12.17,-83.04,Big Fish Guest House
+155,Hithadhoo,MV,81.7,8/28/2020 22:58,-0.6,73.08,Scoop Guest House
+156,Beberibe,BR,78.8,8/28/2020 22:58,-4.18,-38.13,Villa Arte Pousada Morro Branco
+157,Suruc,TR,78.8,8/28/2020 22:58,36.98,38.42,Kumbet Otel
+158,Fort Nelson,CA,55.4,8/28/2020 22:55,58.81,-122.7,The Fort Nelson Hotel
+159,Port Lincoln,AU,59.45,8/28/2020 22:58,-34.73,135.87,Port Lincoln Hotel
+160,Namatanai,PG,82.22,8/28/2020 22:58,-3.67,152.43,Namatanai Hotel
+161,Ostrovnoy,RU,48.79,8/28/2020 22:58,68.05,39.51,
+162,Los Llanos De Aridane,ES,75.99,8/28/2020 22:58,28.66,-17.92,Valle Aridane
+163,Sorland,NO,46.4,8/28/2020 22:58,67.67,12.69,Sjybrygga fiskecamp
+164,Talcahuano,CL,50.0,8/28/2020 22:58,-36.72,-73.12,Hotel Terramar
+165,Cockburn Town,TC,86.0,8/28/2020 22:58,21.46,-71.14,Osprey Beach Hotel
+166,Komsomolskiy,UZ,64.4,8/28/2020 22:58,40.43,71.72,Ikathouse
+167,Noyabrsk,RU,54.34,8/28/2020 22:58,63.2,75.45,Hotel Uyutnaya
+168,Majene,ID,77.67,8/28/2020 22:58,-3.54,118.97,Kost Putri RABBANI
+169,Cherskiy,RU,45.66,8/28/2020 22:58,68.75,161.3,Gostinitsa
+170,Chokurdakh,RU,40.39,8/28/2020 22:58,70.63,147.92,
+171,Pospelikha,RU,53.6,8/28/2020 22:58,51.95,81.77,
+172,Sijunjung,ID,71.82,8/28/2020 22:58,-0.69,100.95,Hotel Bukik Gadang
+173,Nago,JP,82.4,8/28/2020 22:58,26.59,127.98,Hotel Yugaf Inn Okinawa
+174,Carnarvon,AU,57.2,8/28/2020 22:58,-24.87,113.63,Hospitality Carnarvon
+175,Hasaki,JP,86.0,8/28/2020 22:58,35.73,140.83,Inubosaki Kanko Hotel
+176,Skibbereen,IE,51.8,8/28/2020 22:58,51.55,-9.27,The West Cork Hotel
+177,Boda,CF,69.73,8/28/2020 22:58,4.32,17.47,
+178,Tautira,PF,84.2,8/28/2020 22:58,-17.73,-149.15,Pension Oaoa
+179,Kysyl-Syr,RU,53.82,8/28/2020 22:58,63.9,122.76,
+180,Aswan,EG,82.58,8/28/2020 22:58,24.09,32.91,Nuba Nile
+181,Belyy Yar,RU,59.0,8/28/2020 22:58,53.6,91.39,Pasportnyy Stol
+182,Atar,MR,92.93,8/28/2020 22:58,20.52,-13.05,Oumou Elghoura
+183,Riachao Das Neves,BR,74.52,8/28/2020 22:58,-11.75,-44.91,Casa de vó Dina
+184,Buluang,PH,81.05,8/28/2020 22:58,13.31,123.34,Enon Beach Resort
+185,Saint-Philippe,RE,69.8,8/28/2020 22:55,-21.36,55.77,"Chambres d'hôte ""La Trinité"""
+186,Sitka,US,57.2,8/28/2020 22:57,57.05,-135.33,Westmark Sitka
+187,Hilo,US,86.0,8/28/2020 22:54,19.73,-155.09,Hilo Hawaiian Hotel
+188,Tiksi,RU,44.19,8/28/2020 22:55,71.69,128.87,Arktika
+189,Chiang Rai,TH,75.99,8/28/2020 22:58,19.91,99.83,Nak Nakara Hotel
+190,Nikolskoye,RU,55.99,8/28/2020 22:54,59.7,30.79,Tourist House - Sablino
+191,Nishihara,JP,84.2,8/28/2020 22:58,26.18,127.76,Minshuku Agaihama
+192,Shache,CN,61.59,8/28/2020 22:58,38.42,77.24,Delong Hotel
+193,Ambon,ID,79.0,8/28/2020 22:58,-3.7,128.18,Swiss-Belhotel Ambon
+194,Katsuura,JP,87.8,8/28/2020 22:57,35.13,140.3,Katsuura Hotel Mikazuki
+195,Westport,US,82.4,8/28/2020 22:58,41.14,-73.36,The Westport Inn
+196,Cheyenne,US,73.4,8/28/2020 22:58,41.14,-104.82,The Historic Plains Hotel & Restaurant
+197,Ancud,CL,44.01,8/28/2020 22:58,-41.87,-73.82,Hotel Arena Gruesa
+198,Port-Gentil,GA,77.0,8/28/2020 22:58,-0.72,8.78,Fengshui Residence
+199,Tura,IN,73.13,8/28/2020 22:57,25.52,90.22,Hotel RIKMAN Continental
+200,Vila Velha,BR,72.0,8/28/2020 22:55,-20.33,-40.29,Hotel Vitória Palace
+201,Sistranda,NO,51.8,8/28/2020 22:58,63.73,8.83,Hotell Frøya
+202,Tongchuan,CN,69.15,8/28/2020 22:58,35.08,109.09,Tongchuan Hotel
+203,Torbay,CA,61.0,8/28/2020 22:58,47.67,-52.73,Gallows Cove
+204,San Quintin,MX,77.29,8/28/2020 22:57,30.48,-115.95,Old Mill Hotel
+205,Harer,ET,63.03,8/28/2020 22:58,9.31,42.13,Amir Cultural Harari Guesthouse
+206,Castro,BR,59.54,8/28/2020 22:58,-24.79,-50.01,CHACARA BAILLY
+207,Bull Savanna,JM,82.0,8/28/2020 22:58,17.89,-77.59,Big Red's
+208,Palauig,PH,82.76,8/28/2020 22:58,15.44,119.9,Myhousebythesea
+209,Grand Gaube,MU,69.01,8/28/2020 22:53,-20.01,57.66,Veranda Paul et Virginie Hotel & Spa
+210,Umba,RU,48.81,8/28/2020 22:58,66.69,34.34,Cedar Grass Beloye More
+211,Tasiilaq,GL,42.8,8/28/2020 22:56,65.61,-37.64,The Red House
+212,Filingue,NE,83.44,8/28/2020 22:58,14.35,3.32,
+213,Vaitape,PF,76.96,8/28/2020 22:58,-16.52,-151.75,Conrad Bora Bora Nui
+214,Kotido,UG,67.32,8/28/2020 22:54,2.98,34.13,Loware Joseph Mukasa's Residence
+215,Husavik,IS,48.2,8/28/2020 22:58,66.04,-17.34,Bjarnabúð
+216,Anloga,GH,77.0,8/28/2020 22:56,5.79,0.9,Dey Lodge
+217,Vostok,RU,57.99,8/28/2020 22:58,46.49,135.88,
+218,Saint-Georges,GD,86.0,8/28/2020 22:55,12.06,-61.75,Siesta Hotel
+219,Hambantota,LK,79.81,8/28/2020 22:58,6.12,81.12,Bungalow 63
+220,Chuy,UY,56.35,8/28/2020 22:58,-33.7,-53.46,Nuevo Hotel Plaza
+221,Galesong,ID,71.6,8/28/2020 22:58,-5.32,119.37,Sapriadi Appy
+222,Muyezerskiy,RU,44.15,8/28/2020 22:58,63.93,31.65,"Gostinitsa Ooo ""Lzkh ""Ledmozerskoye"""
+223,Praia Da Vitoria,PT,77.0,8/28/2020 22:58,38.73,-27.07,Hotel Branco I
+224,Tuatapere,NZ,45.0,8/28/2020 22:58,-46.13,167.68,Ron and Tony's Bed & Breakfast
+225,Baley,RU,48.74,8/28/2020 22:57,51.6,116.63,Barak-5
+226,Presidencia Roque Saenz Pena,AR,72.82,8/28/2020 22:55,-26.79,-60.44,Hotel Aconcagua
+227,Hearst,CA,67.14,8/28/2020 22:58,49.68,-83.67,Companion
+228,Kailua,US,87.8,8/28/2020 22:58,21.4,-157.74,Sheffield House Bed & Breakfast
+229,Takoradi,GH,74.52,8/28/2020 22:58,4.88,-1.76,Raybow International Hotel
+230,Ust-Karsk,RU,52.11,8/28/2020 22:58,52.7,118.81,
+231,Waynesville,US,73.0,8/28/2020 22:58,35.49,-82.99,Best Western Smoky Mountain Inn
+232,Egham,GB,53.01,8/28/2020 22:58,51.43,-0.55,Mercure London Staines upon Thames Hotel
+233,Myitkyina,MM,73.45,8/28/2020 22:58,25.38,97.4,Shwe Phyu Hotel
+234,Khorixas,,42.73,8/28/2020 22:55,-20.37,14.97,Khorixas Lodge
+235,Samarinda,ID,74.86,8/28/2020 22:58,-0.5,117.15,Aston Samarinda Hotel & Convention Center
+236,Ipaussu,BR,69.12,8/28/2020 22:58,-23.06,-49.63,Hotel das Garças
+237,Cedar City,US,91.4,8/28/2020 22:58,37.68,-113.06,Hampton Inn Cedar City
+238,San Patricio,MX,86.0,8/28/2020 22:54,19.22,-104.7,Hotel Cabo Blanco
+239,Vao,NC,68.9,8/28/2020 22:58,-22.67,167.48,Hotel Kou-Bugny
+240,Saint-Francois,FR,59.0,8/28/2020 22:58,46.42,3.91,Manoir Du Bonheur
+241,Saint-Augustin,CA,53.4,8/28/2020 22:55,51.23,-58.65,
+242,Doha,QA,93.99,8/28/2020 22:54,25.29,51.53,Movenpick Hotel Doha
+243,Macamic,CA,62.6,8/28/2020 22:58,48.75,-79.0,"Maison Tardif Enr. - Auberge à Macamic, QC"
+244,Severo-Kurilsk,RU,52.79,8/28/2020 22:58,50.68,156.12,Kak Doma
+245,Hailar,CN,51.01,8/28/2020 22:58,49.2,119.7,Holiday Inn & Suites Hulunbuir
+246,Olafsvik,IS,51.85,8/28/2020 22:55,64.89,-23.71,Hotel Olafsvik
+247,Launceston,AU,55.0,8/28/2020 22:58,-41.45,147.17,Hotel Grand Chancellor Launceston
+248,Chebenki,RU,57.2,8/28/2020 22:58,51.93,55.71,
+249,Klaksvik,FO,46.4,8/28/2020 22:58,62.23,-6.59,Geilin Bed & Breakfast
+250,Khani,GE,66.2,8/28/2020 22:57,41.96,42.96,კურორტი ზეკარი/Resort Zekari
+251,Guerrero Negro,MX,84.81,8/28/2020 22:58,27.98,-114.06,"Casa Laguna, Bed & Breakfast"
+252,Tual,ID,79.36,8/28/2020 22:58,-5.67,132.75,Grand Vilia Hotel
+253,Edea,CM,73.4,8/28/2020 22:58,3.8,10.13,Micotel Hotel
+254,Ballitoville,ZA,62.6,8/28/2020 22:58,-29.54,31.21,Hotel Fairmont Zimbali Resort
+255,Iqaluit,CA,51.8,8/28/2020 22:58,63.75,-68.51,Frobisher Inn
+256,Tavda,RU,56.62,8/28/2020 22:58,58.04,65.27,The hotel is number 1
+257,Bytow,PL,59.0,8/28/2020 22:58,54.17,17.49,Centrum UŁAN SPA
+258,Yangjiang,CN,79.21,8/28/2020 22:58,21.85,111.97,HUALUXE Yangjiang City Center
+259,Sioux Lookout,CA,66.2,8/28/2020 22:54,50.1,-91.92,Knobby's Fly-In Camps
+260,Huambo,AO,57.22,8/28/2020 22:58,-12.78,15.74,SiSHotel
+261,Dillon,US,91.0,8/28/2020 22:58,34.42,-79.37,Dillon Express Inn
+262,Peleduy,RU,58.93,8/28/2020 22:58,59.63,112.74,Гостиница «Уют»
+263,Estelle,US,90.0,8/28/2020 22:58,29.85,-90.11,Comfort Inn Marrero - New Orleans West
+264,Ridgecrest,US,100.99,8/28/2020 22:54,35.62,-117.67,SpringHill Suites by Marriott Ridgecrest
+265,Blythe,US,113.0,8/28/2020 22:58,33.61,-114.6,Rodeway Inn & Suites
+266,Makakilo City,US,89.6,8/28/2020 22:58,21.35,-158.09,Marriott's Ko Olina Beach Club
+267,Huanren,CN,70.84,8/28/2020 22:58,41.26,125.37,Dynasty Wunvshan Ice Chateau
+268,Kargopol,RU,52.38,8/28/2020 22:58,61.51,38.95,Moroshka Inn
+269,Nymburk,CZ,63.0,8/28/2020 22:58,50.19,15.04,Hotel Ostrov
+270,Miyako,JP,84.54,8/28/2020 22:58,39.64,141.95,Hotel Route Inn Miyako
+271,Tarancon,ES,73.99,8/28/2020 22:58,40.01,-3.01,hotel castilla
+272,Coihaique,CL,33.8,8/28/2020 22:58,-45.58,-72.07,Diego De Almagro Coyhaique
+273,Smithers,CA,59.0,8/28/2020 22:57,54.78,-127.17,Prestige Hudson Bay Lodge
+274,Fare,PF,77.13,8/28/2020 22:58,-16.7,-151.02,Maitai Lapita Village Huahine
+275,Kabo,CF,70.77,8/28/2020 22:58,7.7,18.63,
+276,Digha,IN,81.34,8/28/2020 22:58,21.68,87.55,Khoniker Atithi
+277,Norman Wells,CA,51.8,8/28/2020 22:57,65.28,-126.83,Heritage Hotel
+278,Conceicao Do Araguaia,BR,85.51,8/28/2020 22:58,-8.26,-49.26,Tarumã Tropical Hotel
+279,Manokwari,ID,79.66,8/28/2020 22:59,-0.87,134.08,Swiss Belhotel Manokwari
+280,Krasnoselkup,RU,51.15,8/28/2020 22:59,65.7,82.47,Krasnosel'kupnefteprodukt
+281,Vestmanna,FO,46.4,8/28/2020 22:56,62.16,-7.17,Budget Guesthouse Borgustova
+282,Oranjemund,,54.61,8/28/2020 22:59,-28.55,16.43,Fisherman's Cove
+283,Santa Isabel Do Rio Negro,BR,77.2,8/28/2020 22:54,-0.41,-65.02,Hotel GSA
+284,Dunedin,NZ,50.59,8/28/2020 22:54,-45.87,170.5,Scenic Hotel Southern Cross
+285,Bhainsdehi,IN,69.58,8/28/2020 22:59,21.65,77.63,Prince Rathore HOME
+286,Camotan,GT,80.42,8/28/2020 22:59,14.82,-89.37,Beneficio de cafe aldea brasilar
+287,Shelburne,CA,69.8,8/28/2020 22:59,44.08,-80.2,The Retreat at the Farm
+288,Bang Saphan,TH,76.24,8/28/2020 22:59,11.21,99.51,Ladawan Boutique Hotel
+289,Adrar,MR,97.07,8/28/2020 22:59,20.5,-10.07,
+290,Esperance,AU,50.0,8/28/2020 22:58,-33.87,121.9,Hospitality Esperance
+291,Lasa,IT,61.0,8/28/2020 22:59,46.62,10.7,Pension Feldgärtenhof
+292,Bambous Virieux,MU,71.6,8/28/2020 22:59,-20.34,57.76,Casa Tia Villa
+293,Kavaratti,IN,81.7,8/28/2020 22:56,10.57,72.64,Bismillah Hotel And Lodging
+294,Tevriz,RU,57.52,8/28/2020 22:59,57.51,72.4,Postoyalyy Dvor
+295,Tanete,ID,76.44,8/28/2020 22:59,-3.94,119.78,Wisma Tri Multi
+296,Matay,EG,78.31,8/28/2020 22:59,28.42,30.78,Nag Aespen
+297,Kulhudhuffushi,MV,82.42,8/28/2020 22:59,6.62,73.07,Haajy Guest House 1
+298,Benghazi,LY,78.24,8/28/2020 22:57,32.12,20.07,Tibesti Hotel
+299,Verkhoyansk,RU,54.07,8/28/2020 22:59,67.54,133.38,
+300,Sam Roi Yot,TH,76.84,8/28/2020 22:59,12.27,99.87,ซีบรีชรีสอร์ท สามร้อยยอด
+301,Saint George,US,102.2,8/28/2020 22:55,37.1,-113.58,Best Western Plus Abbey Inn
+302,Lincoln,US,93.2,8/28/2020 22:56,40.8,-96.67,Courtyard by Marriott Lincoln Downtown/Haymarket
+303,Yokadouma,CM,69.51,8/28/2020 22:59,3.52,15.05,Hôtel De Ville De Yokadouma
+304,Laguna,US,97.0,8/28/2020 22:59,38.42,-121.42,Holiday Inn Express & Suites Elk Grove Central - Hwy 99
+305,Pochutla,MX,80.01,8/28/2020 22:59,15.74,-96.47,Hotel Posada San Jose
+306,Skjervoy,NO,48.83,8/28/2020 22:59,70.03,20.97,Skjervøy Byggeservice AS
+307,Luzhou,CN,78.15,8/28/2020 22:59,28.87,105.44,Shijichun Hotel
+308,Saint-Pierre,RE,69.8,8/28/2020 22:57,-21.34,55.48,Lindsey Hôtel
+309,Atyrau,KZ,64.4,8/28/2020 22:58,47.12,51.88,River Palace Hotel
+310,Buchanan,LR,76.62,8/28/2020 22:59,5.88,-10.05,Kamaneahn Hotel Inc
+311,Clyde River,CA,50.0,8/28/2020 22:57,70.47,-68.59,Qamaq Hotel
+312,Asilah,MA,73.4,8/28/2020 22:59,35.47,-6.03,Hotel Zelis
+313,Ammon,US,84.0,8/28/2020 22:59,43.47,-111.97,Holiday Inn Express & Suites Idaho Falls
+314,Rodino,RU,54.99,8/28/2020 22:59,52.5,80.25,Hotel
+315,Airai,TL,62.49,8/28/2020 22:59,-8.93,125.41,Juvinal Martin
+316,Voloshka,RU,53.44,8/28/2020 22:59,61.33,40.09,
+317,Dombarovskiy,RU,73.74,8/28/2020 22:59,50.76,59.54,
+318,Stykkisholmur,IS,51.21,8/28/2020 22:59,65.08,-22.73,Fosshotel Stykkishólmur
+319,Metro,ID,73.22,8/28/2020 22:59,-5.11,105.31,OYO 3177 Wisma Lintang
+320,Kavieng,PG,82.74,8/28/2020 22:59,-2.57,150.8,Nusa Island Retreat
+321,Nhulunbuy,AU,78.8,8/28/2020 22:55,-12.23,136.77,East Arnhem Real Estate
+322,Fortuna,US,64.99,8/28/2020 22:59,40.6,-124.16,Super 8 by Wyndham Fortuna
+323,Coolum Beach,AU,63.0,8/28/2020 22:59,-26.53,153.1,Coolum Beach Resort
+324,Xichang,CN,65.28,8/28/2020 22:59,27.9,102.26,Xichang ibis Hotel
+325,Chara,RU,55.36,8/28/2020 22:59,56.91,118.26,
+326,Wilmington Island,US,93.2,8/28/2020 22:59,32.0,-80.97,Breezeway Studio Manor LLC
+327,Leningradskiy,RU,37.58,8/28/2020 22:58,69.38,178.42,
+328,Greensboro,US,86.0,8/28/2020 22:57,36.07,-79.79,Marriott Greensboro Downtown
+329,Shimoda,JP,86.0,8/28/2020 22:59,34.67,138.95,Shimoda Tokyu Hotel
+330,Batagay,RU,53.71,8/28/2020 22:59,67.63,134.63,
+331,Naze,JP,84.2,8/28/2020 22:59,28.37,129.48,奄美ポートタワーホテル
+332,Nanton,CA,81.0,8/28/2020 22:59,50.35,-113.77,Changing Seasons Bed and Breakfast
+333,Agirish,RU,50.02,8/28/2020 22:59,61.92,63.02,
+334,Tambopata,PE,83.05,8/28/2020 22:59,-12.73,-69.18,
+335,Sabzevar,IR,63.03,8/28/2020 22:59,36.21,57.68,پارکینگ وسایل سنگین جنوب
+336,Tazovskiy,RU,50.94,8/28/2020 22:59,67.47,78.7,TazHostel
+337,Provideniya,RU,50.0,8/28/2020 22:55,64.38,-173.3,
+338,Kangaatsiaq,GL,44.62,8/28/2020 22:59,68.31,-53.46,
+339,Hay River,CA,55.4,8/28/2020 22:59,60.82,-115.8,Ptarmigan Inn Hotels
+340,Adjumani,UG,65.86,8/28/2020 22:59,3.38,31.79,Hotel Zawadi
+341,Mukhen,RU,62.55,8/28/2020 22:59,48.1,136.1,
+342,Bathsheba,BB,84.2,8/28/2020 22:59,13.22,-59.52,Atlantis Hotel
+343,Shu,KZ,72.0,8/28/2020 22:59,43.6,73.76,Shyngyzkhan
+344,Cayenne,GF,78.8,8/28/2020 22:59,4.93,-52.33,Hôtel Le Dronmi
+345,Luderitz,,54.81,8/28/2020 22:58,-26.65,15.16,LÜDERITZ NEST HOTEL
+346,Bosaso,SO,92.28,8/28/2020 22:59,11.28,49.18,Red Sea Hotel
+347,Orotukan,RU,38.48,8/28/2020 22:59,62.27,151.7,
+348,Faya,SA,69.8,8/28/2020 22:59,18.39,42.45,مقبرة ال مجمل
+349,Kropotkin,RU,63.73,8/28/2020 22:59,45.44,40.58,Hotel Europe Kropotkin
+350,Comodoro Rivadavia,AR,39.2,8/28/2020 22:59,-45.87,-67.5,Austral Hotel
+351,Nelson Bay,AU,54.0,8/28/2020 22:59,-32.72,152.15,Mantra Nelson Bay
+352,Namibe,AO,59.41,8/28/2020 22:59,-15.2,12.15,Hotel Chik Chik Namibe
+353,Whitehorse,CA,50.0,8/28/2020 22:56,60.72,-135.05,Westmark Hotel
+354,Palmer,US,78.8,8/28/2020 22:59,42.16,-72.33,Wedgewood Motel
+355,Vyshestebliyevskaya,RU,66.0,8/28/2020 22:59,45.2,37.02,
+356,Patna,IN,78.8,8/28/2020 22:59,25.6,85.12,Hotel Vijay Shree Deluxe
+357,Lahij,YE,89.22,8/28/2020 22:59,13.17,44.58,
+358,Hobyo,SO,76.46,8/28/2020 22:59,5.35,48.53,Osmani Hotel
+359,Rantepao,ID,67.46,8/28/2020 22:59,-2.97,119.9,Hotel Luta Resort
+360,Rawson,AR,45.97,8/28/2020 22:57,-43.3,-65.1,Hotel Punta León
+361,Caravelas,BR,70.66,8/28/2020 22:55,-17.71,-39.25,Pousada dos Navegantes
+362,Upington,ZA,50.0,8/28/2020 22:59,-28.45,21.26,River Place Manor
+363,Lavrentiya,RU,50.13,8/28/2020 22:55,65.58,-171.0,
+364,Acari,PE,63.37,8/28/2020 22:59,-15.43,-74.62,Hospedaje Ximens
+365,Abonnema,NG,75.2,8/28/2020 22:59,4.71,6.79,Corper's Lodge Obonoma
+366,Tlacotepec,MX,73.22,8/28/2020 22:59,20.07,-97.87,IGLESIA SAN ISIDRO LABRADOR
+367,Binzhou,CN,73.96,8/28/2020 22:59,37.37,118.02,Hampton By Hilton Binzhou
+368,Souillac,MU,71.6,8/28/2020 22:59,-20.52,57.52,Bils' Villa
+369,Itarema,BR,78.71,8/28/2020 22:59,-2.92,-39.92,Windvillage
+370,Morant Bay,JM,87.8,8/28/2020 22:59,17.88,-76.41,Whispering Bamboo Cove Resort
+371,Isangel,VU,78.53,8/28/2020 22:59,-19.55,169.27,Volcano Sea View Tree House
+372,Goderich,CA,75.0,8/28/2020 22:59,43.75,-81.72,Harmony Inn
+373,Biak,ID,76.82,8/28/2020 22:59,-0.91,122.88,Kost Ariz
+374,Pombas,CV,84.2,8/28/2020 22:59,17.15,-25.02,POUSADA O RECANTO
+375,Kamaishi,JP,82.4,8/28/2020 22:59,39.27,141.88,Hotel Route Inn Kamaishi
+376,Priyutnoye,RU,71.01,8/28/2020 22:59,46.1,43.51,
+377,Gore,NZ,45.0,8/28/2020 22:59,-46.1,168.94,Esplanade Motels
+378,Mount Gambier,AU,46.4,8/28/2020 22:58,-37.83,140.77,Commodore on the Park
+379,Savannah Bight,HN,85.46,8/28/2020 22:59,16.45,-85.85,Villa on Dunbar Rock
+380,Salmas,IR,62.6,8/28/2020 22:59,38.2,44.77,Ata Hotel
+381,Salinopolis,BR,79.77,8/28/2020 22:59,-0.61,-47.36,Hotel Salinópolis
+382,Tsnori,GE,71.6,8/28/2020 22:59,41.62,45.97,Kabadoni
+383,Aksarka,RU,52.27,8/28/2020 22:57,66.56,67.8,
+384,Chingirlau,KZ,72.73,8/28/2020 22:59,51.09,54.08,
+385,Adeje,ES,79.0,8/28/2020 22:59,28.12,-16.73,Gran Tacande Wellness & Relax Costa Adeje
+386,La Rioja,ES,62.6,8/28/2020 22:57,42.25,-2.5,Casa Concejos
+387,Bharatpur,IN,80.6,8/28/2020 22:59,27.22,77.48,OYO 22446 Sonar Haveli
+388,Yar-Sale,RU,54.5,8/28/2020 22:59,66.83,70.83,Yalemd
+389,Necochea,AR,51.01,8/28/2020 22:59,-38.55,-58.74,dyd -mar Hotel
+390,Saint Anthony,US,81.0,8/28/2020 22:58,45.02,-93.22,Holiday Inn Express Roseville-St. Paul
+391,Acapulco,MX,86.0,8/28/2020 22:57,16.86,-99.89,HS Hotsson Smart Acapulco
+392,Turukhansk,RU,52.52,8/28/2020 22:59,65.82,87.98,"ООО ""Туруханская пушнина"""
+393,Sarmizegetusa,RO,63.95,8/28/2020 22:59,45.52,22.78,Pensiunea Zamolxe
+394,Tigil,RU,54.54,8/28/2020 22:59,57.8,158.67,Tigil'
+395,Kamennomostskiy,RU,59.97,8/28/2020 22:59,44.3,40.19,Гостевой Дом с лилиями
+396,Botwood,CA,55.0,8/28/2020 22:59,49.15,-55.35,Exploits Hostel
+397,Khandyga,RU,53.22,8/28/2020 22:59,62.67,135.6,Apel'sin
+398,Port Hedland,AU,62.6,8/28/2020 22:59,-20.32,118.57,The Esplanade Hotel
+399,Milledgeville,US,82.4,8/28/2020 22:59,33.08,-83.23,Hampton Inn Milledgeville
+400,Eydhafushi,MV,82.96,8/28/2020 22:59,5.1,73.07,Soneva Fushi
+401,Karratha,AU,77.49,8/28/2020 22:59,-20.74,116.85,ibis Styles Karratha
+402,Kloulklubed,PW,78.8,8/28/2020 22:59,7.04,134.26,Storyboard Beach Resort
+403,Hammerfest,NO,46.4,8/28/2020 22:59,70.66,23.68,Skytterhuset
+404,Mumford,GH,73.96,8/28/2020 22:59,5.26,-0.76,Spanish Villa
+405,Manama,BH,93.2,8/28/2020 22:55,26.22,50.58,Al Safir Hotel & Tower
+406,Bubaque,GW,80.78,8/28/2020 22:59,11.28,-15.83,Casa Dora
+407,Doka,SD,71.69,8/28/2020 22:59,13.52,35.77,
+408,Zhaotong,CN,61.2,8/28/2020 22:59,27.32,103.72,Jingguan Home
+409,Jalu,LY,78.85,8/28/2020 22:57,29.03,21.55,Jalu Hotel
+410,Ust-Barguzin,RU,54.41,8/28/2020 22:59,53.45,108.98,Chivurkiyskaya Skazka
+411,Lisala,CD,70.79,8/28/2020 22:59,2.15,21.52,
+412,Keuruu,FI,46.99,8/28/2020 22:59,62.27,24.7,Hostelli Nonna
+413,Arlit,NE,82.99,8/28/2020 22:59,18.74,7.39,Hôtel Telwa Bungalow
+414,Siparia,TT,84.0,8/28/2020 22:59,10.13,-61.5,Brook Gardens
+415,Henties Bay,,53.01,8/28/2020 22:59,-22.12,14.28,Fishermans Guest House
+416,Okhotsk,RU,53.76,8/28/2020 22:59,59.38,143.3,
+417,Norden,DE,55.4,8/28/2020 22:59,53.6,7.2,Hotel Aquarius
+418,Kwekwe,ZW,60.6,8/28/2020 22:59,-18.93,29.81,"Golden Mile Hotel, Kwekwe"
+419,Arecibo,PR,84.0,8/28/2020 22:59,18.47,-66.72,Caño Tiburones Guest House
+420,Sterling,US,73.99,8/28/2020 22:56,39.01,-77.43,Hampton Inn & Suites Washington-Dulles International Airport
+421,Ilek,RU,71.67,8/28/2020 22:59,51.53,53.38,Avtostantsiya
+422,Yaan,NG,71.44,8/28/2020 22:59,7.38,8.57,
+423,Nouadhibou,MR,78.8,8/28/2020 22:59,20.93,-17.03,El Medina
+424,Namikupa,TZ,68.14,8/28/2020 22:59,-10.83,39.6,
+425,Imbituba,BR,66.2,8/28/2020 22:56,-28.24,-48.67,Praia Hotel Imbituba
+426,Rajnagar,IN,75.09,8/28/2020 22:59,24.88,79.92,The LaLiT Temple View Khajuraho
+427,Rundu,,67.26,8/28/2020 22:59,-17.93,19.77,Millennia Estate
+428,Thinadhoo,MV,82.22,8/28/2020 22:59,0.53,72.93,
+429,Te Anau,NZ,45.23,8/28/2020 22:56,-45.42,167.72,Kingsgate Hotel Te Anau
+430,Arkhangelsk,RU,46.4,8/28/2020 22:59,64.54,40.54,DVINA HOTEL
+431,Sola,VU,79.59,8/28/2020 22:59,-13.88,167.55,Leumerus Bungalows
+432,Tottori,JP,82.4,8/28/2020 22:59,35.5,134.23,Hotel Monarque Tottori
+433,Sao Mateus Do Maranhao,BR,81.95,8/28/2020 22:56,-4.04,-44.48,Pousada Pingo De Ouro
+434,San Carlos De Bariloche,AR,35.6,8/28/2020 22:57,-41.15,-71.31,Hotel Patagonia
+435,Claresholm,CA,81.0,8/28/2020 22:59,50.03,-113.59,Bluebird Motel
+436,Bokoro,TD,76.15,8/28/2020 22:59,12.38,17.06,
+437,Tabuk,PH,76.48,8/28/2020 22:59,17.42,121.44,Grand Zion Garden Resort Hotel
+438,Miyoshi,JP,86.0,8/28/2020 22:59,35.08,137.07,豊田 ホテルマイン
+439,Ntungamo,UG,65.41,8/28/2020 22:59,-0.88,29.65,The Crested Crane Bwindi Hotel
+440,Vanavara,RU,51.89,8/28/2020 22:59,60.34,102.28,Russia
+441,Martapura,ID,73.4,8/28/2020 22:59,-3.42,114.85,Montana Hotel Syariah
+442,Jaguariaiva,BR,60.98,8/28/2020 22:59,-24.25,-49.71,San Juan Jaguariaíva
+443,Valleyview,CA,73.08,8/28/2020 22:59,55.07,-117.29,Paradise Inn & Suites
+444,Balkanabat,TM,79.09,8/28/2020 22:59,39.51,54.37,Nebitchi Hotel
+445,Bayangol,RU,45.41,8/28/2020 22:59,50.7,103.47,
+446,Puerto Escondido,MX,77.0,8/28/2020 22:59,15.85,-97.07,Aldea del Bazar Hotel and Spa
+447,Mehamn,NO,43.27,8/28/2020 22:59,71.04,27.85,Mehamn Arctic Hotel AS
+448,U Thong,TH,75.02,8/28/2020 22:59,14.38,99.89,บ้านปิ่นสุข อู่ทอง ห้องพักรายเดือน
+449,Sungaipenuh,ID,62.73,8/28/2020 22:59,-2.08,101.38,Hotel Jaya Wisata 2
+450,Changping,CN,75.0,8/28/2020 22:59,40.22,116.22,Huachang Hotel
+451,Victor Harbor,AU,51.01,8/28/2020 22:59,-35.57,138.62,Apollon Motor Inn
+452,Aksay,RU,64.4,8/28/2020 22:58,47.26,39.87,Chernaya Zhemchuzhina
+453,Mogadishu,SO,77.09,8/28/2020 22:59,2.04,45.34,Hotel Juba
+454,Pathein,MM,78.13,8/28/2020 22:59,16.78,94.73,Pathein Hotel
+455,Baie-Comeau,CA,64.4,8/28/2020 22:59,49.22,-68.15,Travelodge by Wyndham Baie Comeau
+456,Saint-Joseph,RE,69.8,8/28/2020 22:57,-21.37,55.62,"""Plantation Bed and Breakfast"
+457,Samarai,PG,78.87,8/28/2020 22:59,-10.62,150.67,Nuli Sapi
+458,Teya,RU,48.36,8/28/2020 22:57,60.38,92.63,
+459,Kamphaeng Phet,TH,75.04,8/28/2020 22:59,16.48,99.52,Chakungrao Riverview
+460,Mombetsu,JP,63.23,8/28/2020 22:59,44.35,143.35,Okhotsk Palace Hotel
+461,Kununurra,AU,77.0,8/28/2020 22:59,-15.77,128.73,Hotel Kununurra
+462,Buala,SB,83.84,8/28/2020 22:55,-8.14,159.59,Maringe Lagoon Lodge
+463,Gao,ML,80.98,8/28/2020 22:59,16.64,1.64,
+464,Namie,JP,77.0,8/28/2020 22:59,37.48,141.0,いこいの村なみえ(福島県)
+465,Atherton,GB,50.0,8/28/2020 22:59,53.52,-2.49,The Mercury Motel
+466,Beroroha,MG,68.77,8/28/2020 22:59,-21.67,45.17,
+467,Ahuimanu,US,87.8,8/28/2020 22:59,21.44,-157.84,Paradise Bay Resort
+468,Teahupoo,PF,84.2,8/28/2020 22:59,-17.83,-149.27,Vanira Lodge
+469,Jingdezhen,CN,72.37,8/28/2020 22:59,29.29,117.21,Garden Hotel
+470,Hirara,JP,80.6,8/28/2020 22:57,24.8,125.28,Hotel Atoll Emerald Miyakojima
+471,Belaya Gora,RU,45.14,8/28/2020 22:59,68.53,146.42,
+472,Highland Springs,US,89.6,8/28/2020 22:59,37.55,-77.33,Homewood Suites by Hilton Richmond - Airport
+473,Maba,CN,78.26,8/28/2020 22:59,24.68,113.6,康泰旅店
+474,Port Augusta,AU,60.01,8/28/2020 22:59,-32.5,137.77,Majestic Oasis Apartments
+475,Zbarazh,UA,54.52,8/28/2020 22:59,49.66,25.78,Edelʹveys
+476,Mount Isa,AU,69.8,8/28/2020 22:58,-20.73,139.5,ibis Styles Mt Isa Verona
+477,Haines Junction,CA,47.68,8/28/2020 22:59,60.75,-137.51,Parkside Inn
+478,Ourossogui,SN,86.0,8/28/2020 22:59,15.61,-13.32,Auberge Sogui
+479,Clarksburg,US,73.99,8/28/2020 22:58,39.28,-80.34,Greenbrier Motel & Restaurant
+480,Koshki,RU,60.4,8/28/2020 22:59,54.21,50.47,
+481,Williston,US,75.99,8/28/2020 22:59,48.15,-103.62,Hampton Inn & Suites Williston
+482,Sindgi,IN,73.31,8/28/2020 22:59,16.92,76.23,Hotel New Sangam
+483,Okitipupa,NG,74.26,8/28/2020 22:59,6.5,4.78,Coastal Hotel & Suites
+484,Navahrudak,BY,50.22,8/28/2020 22:59,53.6,25.83,Hotel Grazhina
+485,Burgeo,CA,56.19,8/28/2020 22:59,47.62,-57.62,Gillett's Motel
+486,Colwyn Bay,GB,55.0,8/28/2020 22:59,53.29,-3.73,Premier Inn Llandudno (Glan-Conwy) hotel
+487,Panorama,GR,79.0,8/28/2020 22:59,40.59,23.03,Panorama Hotel
+488,Aklavik,CA,55.4,8/28/2020 22:59,68.22,-135.01,Aklavik Inn
+489,Oussouye,SN,78.8,8/28/2020 22:59,12.48,-16.55,Auberge du Routard
+490,Lagoa,PT,74.16,8/28/2020 22:56,39.05,-27.98,Casa Das Faias
+491,Yankton,US,82.99,8/28/2020 22:59,42.87,-97.4,Holiday Inn Express & Suites Yankton
+492,Boguchany,RU,50.88,8/28/2020 22:59,58.38,97.45,Uyut
+493,Santa Rosalia,MX,88.93,8/28/2020 22:59,27.32,-112.28,Hotel Las Casitas Santa Rosalia
+494,Kenai,US,62.6,8/28/2020 22:59,60.55,-151.26,Aspen Extended Stay Suites
+495,Serik,TR,78.8,8/28/2020 22:59,36.92,31.1,Royal Seginus Lara
+496,Qinzhou,CN,80.65,8/28/2020 22:59,21.95,108.62,Jinjiang Inn Style Qingzhou Walmart
+497,Turkan,AZ,69.8,8/28/2020 22:59,40.36,50.22,Samir Зона Отдыха
+498,Sobolevo,RU,48.36,8/28/2020 22:55,54.43,31.9,
+499,Antigonish,CA,64.0,8/28/2020 22:56,45.62,-62.0,Claymore Inn and Suites
+500,Armidale,AU,42.01,8/28/2020 22:59,-30.52,151.65,Abbotsleigh Motor Inn
+501,Timmins,CA,60.8,8/28/2020 22:56,48.47,-81.33,The Senator Hotel & Conference Centre
+502,Vesele,UA,64.27,8/28/2020 22:59,47.01,34.91,
+503,Gubkinskiy,RU,54.93,8/28/2020 22:59,64.43,76.5,MonarcH
+504,Leshukonskoye,RU,45.25,8/28/2020 22:58,64.9,45.76,Gostinitsa Mup Zhkkh
+505,Pisco,PE,64.4,8/28/2020 22:59,-13.7,-76.22,Hostal San Isidro Oficial
+506,Altar,MX,104.0,8/28/2020 22:59,30.7,-111.82,Hotel Maria Elena
+507,Fort Pierce,US,87.8,8/28/2020 22:55,27.45,-80.33,Hutchinson Island Plaza Hotel & Suites
+508,Verkhnyaya Toyma,RU,54.12,8/28/2020 22:59,62.23,45.0,Gostinitsa
+509,Maraa,BR,80.01,8/28/2020 22:59,-1.83,-65.37,
+510,Ler,SS,72.75,8/28/2020 22:59,8.3,30.14,
+511,Sinnai,IT,78.01,8/28/2020 22:59,39.3,9.2,La Rosa Dei Venti Sardinya
+512,Rauma,FI,42.8,8/28/2020 22:59,61.13,21.51,Kalliohovi Hotel
+513,Labuan,MY,77.0,8/28/2020 22:59,5.28,115.24,Tiara Labuan Hotel
+514,Awbari,LY,83.71,8/28/2020 22:59,26.59,12.78,فندق أوباري
+515,Praya,CV,80.6,8/28/2020 22:59,14.92,-23.51,LT Aparthotel
+516,Qiongshan,CN,75.2,8/28/2020 22:59,20.01,110.35,Sun City Restaurant
+517,Antsohihy,MG,65.97,8/28/2020 22:59,-14.88,47.99,Hotel de Ville
+518,Kachiry,KZ,58.71,8/28/2020 22:59,53.07,76.1,"Ночной клуб BasMax, Гостиница , Ресторан , Магазин-автозап. сто вулканизатор ,"
+519,Bogalusa,US,79.0,8/28/2020 22:59,30.79,-89.85,Traveler's Rest Motel
+520,Kimbe,PG,83.32,8/28/2020 22:59,-5.55,150.14,Kimbe Bay Hotel
+521,Nyrob,RU,57.16,8/28/2020 22:59,60.73,56.72,Gostinitsa
+522,Les Cayes,HT,82.81,8/28/2020 22:59,18.2,-73.75,Villa Orphee
+523,Arman,RU,53.6,8/28/2020 22:59,59.7,150.17,
+524,Linxia,CN,65.34,8/28/2020 22:59,35.6,103.21,GreenTree Inn Linxia Autonomous Prefecture Linxia Oxford River Avenue Express Hotel
+525,Katangli,RU,54.48,8/28/2020 22:59,51.71,143.23,
+526,Ugra,RU,50.0,8/28/2020 22:59,54.78,34.33,Gostinichnyy Kompleks Vizit
+527,Dingzhou,CN,73.4,8/28/2020 22:59,38.51,115.0,宜家时尚宾馆
+528,Opuwo,,55.51,8/28/2020 22:59,-18.06,13.84,ABBA Guesthouse
+529,Mormugao,IN,78.69,8/28/2020 22:59,15.4,73.8,Hotel La-Paz Gardens
+530,Manyana,BW,56.48,8/28/2020 23:00,-23.4,21.72,
+531,Kerema,PG,77.31,8/28/2020 23:00,-7.96,145.78,Elore Lodge
+532,Osmanabad,IN,71.76,8/28/2020 23:00,18.17,76.05,Hotel Megh Malhar
+533,Songjianghe,CN,62.26,8/28/2020 23:00,42.19,127.48,Sijisheng Fashion Guest House
+534,Hun,LY,76.8,8/28/2020 23:00,29.13,15.95,Alrwasi Hotel
+535,Ballina,AU,62.01,8/28/2020 23:00,-28.87,153.57,Ramada Hotel & Suites by Wyndham Ballina Byron
+536,Poum,NC,72.99,8/28/2020 23:00,-20.23,164.02,Gîte kajeon
+537,Olga,RU,63.59,8/28/2020 22:57,43.74,135.29,Gostinitsa Rosmorport.
+538,Chamba,IN,67.5,8/28/2020 23:00,32.57,76.13,NotOnMap - Rafi's House
+539,Fairbanks,US,59.0,8/28/2020 22:56,64.84,-147.72,Westmark Fairbanks Hotel & Conference Center
+540,Yulara,AU,53.6,8/28/2020 23:00,-25.24,130.99,Desert Gardens Hotel - Ayers Rock Resort
+541,Itoman,JP,84.2,8/28/2020 23:00,26.12,127.67,Southern Beach Hotel & Resort Okinawa
+542,Kommunisticheskiy,RU,49.59,8/28/2020 23:00,61.68,64.48,
+543,East Kilbride,GB,51.8,8/28/2020 22:56,55.77,-4.17,The Torrance Hotel
+544,Teguldet,RU,47.32,8/28/2020 23:00,57.31,88.17,Gostinitsa Kedr
+545,Yongan,CN,67.51,8/28/2020 23:00,39.7,113.69,Beiyue International Hotel
+546,Sun City West,US,111.99,8/28/2020 22:55,33.66,-112.34,Windmill All Suites Surprise
+547,Vanimo,PG,79.36,8/28/2020 23:00,-2.67,141.3,Vahmoneh Lodge Vanimo
+548,Parung,ID,79.0,8/28/2020 23:00,-6.42,106.73,Padepokan Welas Asih
+549,Nanchang,CN,76.26,8/28/2020 23:00,28.68,115.88,Ruidu Hotel
+550,Tiznit,MA,75.51,8/28/2020 22:57,29.58,-9.5,
+551,Tshikapa,CD,77.11,8/28/2020 23:00,-6.42,20.8,Hôtel Tshia-Muntu de Tshikapa
+552,Kaeo,NZ,55.99,8/28/2020 23:00,-35.1,173.78,Bushido Lodge
+553,Gat,IL,80.01,8/28/2020 23:00,31.61,34.76,רגע בנחת
+554,Fukue,JP,82.09,8/28/2020 23:00,32.69,128.84,Goto Guesthouse Utojuku & SA Car Rental
+555,Talara,PE,63.82,8/28/2020 22:55,-4.58,-81.27,Hostal Oro Negro
+556,Sol-Iletsk,RU,70.68,8/28/2020 23:00,51.16,54.99,Raduzhnaya
+557,Toora-Khem,RU,49.24,8/28/2020 23:00,52.47,96.11,
+558,Pacific Grove,US,72.0,8/28/2020 23:00,36.62,-121.92,Lovers Point Inn
+559,Kieta,PG,83.95,8/28/2020 23:00,-6.22,155.63,
+560,Egvekinot,RU,46.15,8/28/2020 23:00,66.32,-179.17,
+561,Eureka,US,72.0,8/28/2020 22:59,40.8,-124.16,Eureka Inn Trademark By Wyndham
+562,Vokhtoga,RU,53.49,8/28/2020 23:00,58.81,41.05,
+563,Sisimiut,GL,50.09,8/28/2020 22:58,66.94,-53.67,Hotel Sisimiut
+564,Rabak,SD,78.96,8/28/2020 23:00,13.18,32.74,فندق ربك Rabak Hotel
+565,Russell,US,80.6,8/28/2020 23:00,32.35,-85.2,Macs
+566,Camacha,PT,73.4,8/28/2020 23:00,33.08,-16.33,Hotel Porto Santo & Spa
+567,Urumqi,CN,60.8,8/28/2020 23:00,43.8,87.6,Hua Ling Grand Hotel Urumqi
+568,Puteyets,RU,43.23,8/28/2020 23:00,65.17,57.09,"Sot ""Agrarnik"""
+569,Isla Mujeres,MX,87.8,8/28/2020 23:00,21.23,-86.73,Hotel La Joya Isla Mujeres
+570,Orange,US,89.01,8/28/2020 23:00,33.7,-117.77,La Quinta Inn & Suites by Wyndham Irvine Spectrum
+571,Kon Tum,VN,69.53,8/28/2020 23:00,14.35,108.0,Hoa đà spa- homestay
+572,Colimes,EC,86.0,8/28/2020 23:00,-1.55,-80.02,"Casa de Retiro ""JESÚS DE LA DIVINA MISERICORDIA"""
+573,Khandagayty,RU,49.71,8/28/2020 23:00,50.73,92.05,
+574,Ila,NO,52.0,8/28/2020 23:00,63.43,10.37,Comfort Hotel Trondheim
+575,Papara,BR,79.0,8/28/2020 23:00,-3.98,-38.73,Bela vista Maranguape
+576,Natal,BR,77.0,8/28/2020 22:58,-5.79,-35.21,Villa Park Hotel | Natal
+577,Kidal,ML,82.72,8/28/2020 23:00,18.44,1.41,
+578,Kasongo,CD,75.43,8/28/2020 23:00,-4.45,26.67,Guest Hôtel
+579,Viedma,AR,51.01,8/28/2020 23:00,-40.81,-63.0,Hotel Cristal
+580,Matara,LK,79.39,8/28/2020 23:00,5.95,80.54,Amaloh Boutique Resort
+581,Damara,CF,77.0,8/28/2020 23:00,4.96,18.7,
+582,Yaita,JP,90.0,8/28/2020 23:00,36.8,139.93,Yaita Eastern Hotel
+583,Lisakovsk,KZ,66.92,8/28/2020 23:00,52.54,62.49,"Gostinitsa ""Kontinent"""
+584,Coos Bay,US,82.0,8/28/2020 22:55,43.37,-124.22,Best Western Holiday Hotel
+585,Tyukhtet,RU,48.65,8/28/2020 23:00,56.54,89.3,
+586,Lac Du Bonnet,CA,66.0,8/28/2020 23:00,50.25,-96.06,Casey's Inn Motor Hotel
+587,Warrington,GB,51.8,8/28/2020 23:00,53.39,-2.58,Villaggio Hotel
+588,North Bend,US,82.0,8/28/2020 22:59,43.41,-124.22,Red Lion Hotel Coos Bay
+589,Chunskiy,RU,50.47,8/28/2020 23:00,56.08,99.63,Odisseya
+590,Bud,US,84.0,8/28/2020 22:58,39.45,-86.18,Madsion Scouts Camp
+591,Takaka,NZ,57.99,8/28/2020 23:00,-40.85,172.8,Golden Bay Motels
+592,Sangar,RU,53.87,8/28/2020 23:00,63.92,127.47,
+593,Bandarbeyla,SO,75.9,8/28/2020 23:00,9.49,50.81,REER XOOSHLE GROUP
+594,College,US,59.0,8/28/2020 23:00,64.86,-147.8,Pike's Waterfront Lodge
+595,Chapais,CA,60.8,8/28/2020 22:55,49.78,-74.85,Hôtel Opémiska
+596,Ixtacomitan,MX,82.72,8/28/2020 23:00,17.42,-93.1,Santa Elena
+597,Crotone,IT,78.75,8/28/2020 23:00,39.09,17.12,Helios Hotel
+598,Adamovka,RU,73.65,8/28/2020 23:00,51.52,59.94,Gostinitsa
+599,Tevaitoa,PF,76.77,8/28/2020 23:00,-16.78,-151.5,Hôtel Raiatea Lodge
+600,Sao Jose Da Coroa Grande,BR,74.8,8/28/2020 22:57,-8.9,-35.15,Crôa Mares Hotel
+601,Cuxhaven,DE,57.99,8/28/2020 23:00,53.87,8.69,Best Western Hotel Das Donners
+602,Byron Bay,AU,62.01,8/28/2020 23:00,-28.65,153.62,Backpackers Inn on the Beach
+603,Abashiri,JP,63.41,8/28/2020 23:00,44.02,144.27,Tōyoko Inn Hokkaidō Okhotsk Abashiri Ekimae
+604,Omsukchan,RU,40.77,8/28/2020 22:57,62.53,155.8,Zori
+605,Zharkent,KZ,61.52,8/28/2020 23:00,44.16,80.0,гостиница Satti
+606,Batemans Bay,AU,43.0,8/28/2020 23:00,-35.72,150.18,Coachhouse Marina Resort - Batemans Bay
+607,Dubuque,US,80.01,8/28/2020 23:00,42.48,-90.87,American Inn and Suites
+608,Marawi,PH,75.0,8/28/2020 23:00,8.0,124.29,Salihmaruhom
+609,Narimanov,RU,66.2,8/28/2020 23:00,46.69,47.85,Solnechnyi
+610,Mudgee,AU,45.0,8/28/2020 23:00,-32.59,149.59,Parklands Resort & Conference Centre
+611,Ntcheu,MW,66.76,8/28/2020 23:00,-14.82,34.64,Dear Executive Lodge
+612,Makasar,ID,71.6,8/28/2020 22:57,-5.14,119.42,Aryaduta Makassar
+613,Tema,GH,75.2,8/28/2020 23:00,5.67,-0.02,Beulah Royale
+614,Bon Air,US,89.01,8/28/2020 23:00,37.52,-77.56,DoubleTree by Hilton Hotel Richmond - Midlothian
+615,Marzuq,YE,83.57,8/28/2020 22:57,14.4,46.47,
+616,Sambava,MG,68.56,8/28/2020 22:57,-14.27,50.17,Melrose
+617,Sao Miguel Do Araguaia,BR,81.75,8/28/2020 23:00,-13.28,-50.16,Hotel Executivo Palace
+618,Ayotzintepec,MX,84.18,8/28/2020 23:00,17.67,-96.13,"Hotel ""Punta del Cerro"""
+619,Okha,RU,56.39,8/28/2020 23:00,53.57,142.95,Империя
+620,Mayo,US,82.0,8/28/2020 23:00,38.89,-76.51,Resorts Resource Group International
+621,Avera,US,89.6,8/28/2020 23:00,33.19,-82.53,
+622,Sur,OM,83.23,8/28/2020 23:00,22.57,59.53,Sur Plaza Hotel
+623,Ostersund,SE,51.8,8/28/2020 22:57,63.18,14.64,Best Western Hotel Gamla Teatern
+624,Conde,BR,75.2,8/28/2020 23:00,-7.26,-34.91,Pousada Beija Flor
+625,Kamenka,RU,59.27,8/28/2020 23:00,51.32,42.77,
+626,Kurashiki,JP,81.0,8/28/2020 23:00,34.58,133.77,APA HOTEL KURASHIKI-EKIMAE
+627,Socorro,US,102.2,8/28/2020 23:00,31.65,-106.3,guarderia imss papalote
+628,Rupea,RO,57.99,8/28/2020 23:00,46.03,25.22,Dumbrava
+629,Astana,KZ,51.8,8/28/2020 22:58,51.18,71.45,King Hotel Astana
+630,Turochak,RU,53.94,8/28/2020 23:00,52.26,87.12,Guest House on Beregovaya st.
+631,Porto Santo,PT,73.4,8/28/2020 23:00,33.07,-16.34,Hotel Porto Santo & Spa
+632,Padang,ID,77.07,8/28/2020 23:00,-0.95,100.35,Mercure Padang
+633,Rouvroy,FR,57.0,8/28/2020 23:00,50.39,2.9,La cabane de Lena
+634,Flinders,AU,57.99,8/28/2020 23:00,-34.58,150.86,Shellharbour Resort & Conference Centre
+635,Sandwick,GB,50.0,8/28/2020 23:00,60.0,-1.25,Beach House Self-Catering Accomodation
+636,Dalby,AU,59.0,8/28/2020 23:00,-27.18,151.27,Kobbers Motor Inn Dalby
+637,Iquique,CL,60.8,8/28/2020 22:58,-20.22,-70.14,Backpacker`s Hostel Iquique
+638,Yarqa,JO,75.2,8/28/2020 23:00,31.98,35.69,موفق العلوان
+639,Angoche,MZ,72.05,8/28/2020 23:00,-16.23,39.91,Guest House HESADA
+640,Keetmanshoop,,40.41,8/28/2020 23:00,-26.58,18.13,Quiver Inn Guesthouse
+641,Yemelyanovo,RU,48.2,8/28/2020 23:00,56.17,92.68,Zaimka Emelyanovskaya Gorka
+642,Casper,US,79.0,8/28/2020 23:00,42.87,-106.31,Ramkota Hotel
+643,Blora,ID,73.51,8/28/2020 23:00,-6.97,111.42,Hotel Adhi Jaya
+644,Ayat,ET,55.4,8/28/2020 23:00,9.03,38.85,COT Addis Hostel
+645,San Vicente,AR,67.96,8/28/2020 23:00,-26.62,-54.13,Complejo Turístico Farelluk
+646,Xining,CN,60.04,8/28/2020 23:00,36.62,101.77,Super Leisure Hotel
+647,Mayor Pablo Lagerenza,PY,88.95,8/28/2020 23:00,-19.93,-60.77,
+648,Sainte-Maxime,FR,75.2,8/28/2020 23:00,43.3,6.63,Hôtel Les Jardins De Sainte Maxime
+649,Nueve De Julio,AR,61.0,8/28/2020 23:00,-35.44,-60.88,Grand Hotel Libertad - GHL
+650,Mackay,AU,69.01,8/28/2020 23:00,-21.15,149.2,International Lodge Motel
+651,Bell Ville,AR,66.0,8/28/2020 23:00,-32.63,-62.69,Hotel Central
+652,Novaky,SK,73.4,8/28/2020 23:00,48.71,18.53,Motel Dolina
+653,Fairlie,GB,51.8,8/28/2020 23:00,55.76,-4.86,Brisbane House Hotel
+654,Nantucket,US,71.6,8/28/2020 22:59,41.28,-70.1,Jared Coffin House
+655,Izumo,JP,78.8,8/28/2020 23:00,35.37,132.77,Toyoko-Inn Izumoshi ekimae
+656,Balakovo,RU,66.29,8/28/2020 23:00,52.03,47.8,Izumrud
+657,Ferme-Neuve,CA,60.62,8/28/2020 23:00,46.7,-75.45,Pourvoirie Club Fontbrune Ltee
+658,Middelburg,ZA,60.19,8/28/2020 23:00,-25.78,29.46,Oregon Place Guest House
+659,Ketchikan,US,55.4,8/28/2020 22:57,55.34,-131.65,Snows Cove Lodge
+660,Waipawa,NZ,57.2,8/28/2020 23:00,-41.41,175.52,Tora Coastal Walk
+661,Sawtell,AU,60.8,8/28/2020 22:57,-30.38,153.1,Boambee Waters Caravan Park
+662,Keningau,MY,75.2,8/28/2020 23:00,5.34,116.16,Sabindo Hotel
+663,Dakar,SN,82.4,8/28/2020 23:00,14.69,-17.44,Novotel Dakar
+664,Japura,ID,73.47,8/28/2020 22:57,-0.32,102.35,Rumah mbah Jamah
+665,Kushiro,JP,80.6,8/28/2020 23:00,42.98,144.37,東横INN釧路十字街
+666,Tezu,IN,75.79,8/28/2020 23:00,27.92,96.17,Circuit House
+667,Sainte-Anne-Des-Monts,CA,56.25,8/28/2020 23:00,49.12,-66.49,Motel et restaurant Manoir sur Mer Enr.
+668,Khasan,RU,73.83,8/28/2020 23:00,42.43,130.64,Krako Motorkár
+669,Shcherbinka,RU,57.0,8/28/2020 23:00,55.5,37.56,Hotel Eklips
+670,Meulaboh,ID,75.6,8/28/2020 23:00,4.14,96.13,Kost Pria
+671,General Roca,AR,55.4,8/28/2020 23:00,-39.03,-67.58,Hotel El Recreo
+672,Nagato,JP,80.6,8/28/2020 23:00,34.38,131.2,いそう庵
+673,Ngaoundere,CM,64.62,8/28/2020 23:00,7.32,13.58,Hotel Mentong Palace
+674,Waingapu,ID,75.49,8/28/2020 23:00,-9.66,120.26,Pondok Wisata Elim
+675,Mafinga,TZ,65.64,8/28/2020 23:00,-7.25,35.07,
+676,Sidney,AU,59.0,8/28/2020 23:00,-33.87,151.21,QT Sydney
+677,Muncar,ID,75.7,8/28/2020 23:00,-8.43,114.33,Zaky Homestay
+678,Havelock,US,86.0,8/28/2020 23:00,34.88,-76.9,Sherwood Motel
+679,Luganville,VU,75.97,8/28/2020 23:00,-15.53,167.17,The Espiritu Hotel
+680,Copiapo,CL,55.4,8/28/2020 23:00,-27.37,-70.33,Antay Casino Hotel
+681,Sungairaya,ID,77.45,8/28/2020 23:00,0.7,108.9,808 artel
+682,Ormara,PK,81.21,8/28/2020 23:00,25.21,64.64,
+683,Auki,SB,85.69,8/28/2020 23:00,-8.77,160.7,Auki Motel
+684,Ternovskaya,RU,65.05,8/28/2020 23:00,45.85,40.41,
+685,Xuchang,CN,68.0,8/28/2020 23:00,34.02,113.82,Super 8 Hotel
+686,Bolobo,CD,72.61,8/28/2020 22:59,-2.17,16.23,
+687,Barinitas,VE,75.74,8/28/2020 23:00,8.76,-70.41,Hotel El Jardín
